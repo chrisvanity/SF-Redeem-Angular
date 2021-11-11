@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+/* NAV */
+nav{
+    height: 56px;
+}
+nav.navbar{
+    color: #fff!important;
+    background-color: #673ab7!important;
+}
+
+.homeContainer h2{ padding: 20px 0;}
+.voucherContainer h2{ padding: 20px 0;}
+
+.boxForm{
+    padding:30px 150px;
+    margin-top: 50px;
+}
+
+.input1{
+    margin-bottom: 20px;
+}
+
+#recaptcha div{
+    margin: 20px auto!important
+}
